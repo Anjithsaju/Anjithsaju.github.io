@@ -431,7 +431,7 @@ let dataprev=null;
 
                 }
             }
-// datafetch("https://ap-south-1.aws.data.mongodb-api.com/app/splitapp-pnazqyo/endpoint/membersdatapull");
+datafetch("https://ap-south-1.aws.data.mongodb-api.com/app/splitapp-pnazqyo/endpoint/membersdatapull");
 //******************************************************************************************
 document.getElementById('myForm').addEventListener("submit", function(event) {
     console.log(event);
